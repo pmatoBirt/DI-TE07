@@ -25,7 +25,7 @@ Microsoft .NET Framework 4.7.2
 
 ## Contacto
 
-La aplicación ha sido creada por Pabo, un estudiante del centro de formación profesional a distancia BIRT, del País Vasco. Este es el trabajo correspondiente a la Unidad didáctica 7, de la asignatura Desarrollo de Interfaces, del ciclo formativo Desarrollo de Aplicaciones Multiplataforma. 
+La aplicación ha sido creada por Pablo, un estudiante del centro de formación profesional a distancia BIRT, del País Vasco. Este es el trabajo correspondiente a la Unidad didáctica 7, de la asignatura Desarrollo de Interfaces, del ciclo formativo Desarrollo de Aplicaciones Multiplataforma. 
 
 *La url de acceso al centro es [https://www.birt.eus/](https://www.birt.eus/)*
 
