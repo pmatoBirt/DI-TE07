@@ -18,6 +18,10 @@ La aplicación muestra los datos identificativos del comercial, su facturación 
 
 También permite ver de forma agregada la información de los tres comerciales. 
 
+**Prerequisitos: **
+...
+Microsoft .NET Framework 4.7.2
+...
 
 ## Contacto
 
@@ -30,6 +34,7 @@ Peden escribirme a mi correo electrónico: pmato at birt.eus
 ## Referencias
 
 Documentación de la Unidad Didáctica 7 de la asignatura Desarrollo de Interfaces, del ciclo Desarrollo de Aplicaciones Multiplataforma de BIRT.
-Plantillas Readme.me [https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/README.md](https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/README.md)
+Plantillas Readme.me: [https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/README.md](https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/README.md)
+
 
 
