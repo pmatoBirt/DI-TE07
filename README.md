@@ -18,7 +18,7 @@ La aplicación muestra los datos identificativos del comercial, su facturación 
 
 También permite ver de forma agregada la información de los tres comerciales. 
 
-** Prerequisitos: **
+**Prerequisitos:**
 ```
 Microsoft .NET Framework 4.7.2
 ```
