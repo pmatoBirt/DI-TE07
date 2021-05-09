@@ -8,8 +8,11 @@ namespace ProyectoDashboardDAL
 {
     public static class AccesoADatos
     {
-        private static string rutaComerciales = "..\\..\\..\\ProyectoDashboardDAL\\BD\\1_datos_comerciales.csv";
-        private static string rutaFacturacion = "..\\..\\..\\ProyectoDashboardDAL\\BD\\2_facturacion_comercial.csv"; 
+        //private static string rutaComerciales = "..\\..\\..\\ProyectoDashboardDAL\\BD\\1_datos_comerciales.csv";
+        //private static string rutaFacturacion = "..\\..\\..\\ProyectoDashboardDAL\\BD\\2_facturacion_comercial.csv"; 
+
+        private static string rutaComerciales = "BD\\1_datos_comerciales.csv";
+        private static string rutaFacturacion = "BD\\2_facturacion_comercial.csv"; 
 
         public static Comercial[] CargarDatosComerciales(out string[] cabecera)
         {

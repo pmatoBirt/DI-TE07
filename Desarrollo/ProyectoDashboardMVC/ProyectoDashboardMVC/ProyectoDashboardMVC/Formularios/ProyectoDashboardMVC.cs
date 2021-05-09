@@ -15,9 +15,14 @@ namespace ProyectoDashboardMVC.Formularios
 {
     public partial class ProyectoDashboardMVC : Form
     {
-        private static string rutaLogo = "..\\..\\..\\Recursos\\LogoEmpresa.png";
-        private static string rutaMundo = "..\\..\\..\\Recursos\\MapaMundi.png";
-        private static string rutaAyuda = "..\\..\\..\\REcursos\\Manual\\Manual.chm"; 
+        //private static string rutaLogo = "..\\..\\..\\Recursos\\LogoEmpresa.png";
+        //private static string rutaMundo = "..\\..\\..\\Recursos\\MapaMundi.png";
+        //private static string rutaAyuda = "..\\..\\..\\REcursos\\Manual\\Manual.chm";
+
+        private static string rutaLogo = "Recursos\\LogoEmpresa.png";
+        private static string rutaMundo = "Recursos\\MapaMundi.png";
+        private static string rutaAyuda = "REcursos\\Manual\\Manual.chm";
+
         private TableLayoutPanel tlp_base;
         private TableLayoutPanel tlp_grafico;
 
