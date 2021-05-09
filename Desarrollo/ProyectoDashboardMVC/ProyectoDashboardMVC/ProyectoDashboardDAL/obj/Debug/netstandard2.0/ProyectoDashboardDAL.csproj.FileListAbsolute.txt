@@ -1,0 +1,12 @@
+D:\BIRT\DI\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardDAL\bin\Debug\netstandard2.0\ProyectoDashboardDAL.deps.json
+D:\BIRT\DI\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardDAL\bin\Debug\netstandard2.0\ProyectoDashboardDAL.dll
+D:\BIRT\DI\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardDAL\bin\Debug\netstandard2.0\ProyectoDashboardDAL.pdb
+D:\BIRT\DI\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardDAL\bin\Debug\netstandard2.0\UtilidadesDashboard.dll
+D:\BIRT\DI\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardDAL\bin\Debug\netstandard2.0\UtilidadesDashboard.pdb
+D:\BIRT\DI\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardDAL\obj\Debug\netstandard2.0\ProyectoDashboardDAL.csprojAssemblyReference.cache
+D:\BIRT\DI\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardDAL\obj\Debug\netstandard2.0\ProyectoDashboardDAL.AssemblyInfoInputs.cache
+D:\BIRT\DI\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardDAL\obj\Debug\netstandard2.0\ProyectoDashboardDAL.AssemblyInfo.cs
+D:\BIRT\DI\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardDAL\obj\Debug\netstandard2.0\ProyectoDashboardDAL.csproj.CoreCompileInputs.cache
+D:\BIRT\DI\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardDAL\obj\Debug\netstandard2.0\ProyectoDashboardDAL.csproj.CopyComplete
+D:\BIRT\DI\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardDAL\obj\Debug\netstandard2.0\ProyectoDashboardDAL.dll
+D:\BIRT\DI\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardDAL\obj\Debug\netstandard2.0\ProyectoDashboardDAL.pdb

@@ -1,0 +1,9 @@
+D:\BIRT\DI\ProyectoDashboardMVC\ProyectoDashboardMVC\UtilidadesDashboard\bin\Debug\netstandard2.0\UtilidadesDashboard.deps.json
+D:\BIRT\DI\ProyectoDashboardMVC\ProyectoDashboardMVC\UtilidadesDashboard\bin\Debug\netstandard2.0\UtilidadesDashboard.dll
+D:\BIRT\DI\ProyectoDashboardMVC\ProyectoDashboardMVC\UtilidadesDashboard\bin\Debug\netstandard2.0\UtilidadesDashboard.pdb
+D:\BIRT\DI\ProyectoDashboardMVC\ProyectoDashboardMVC\UtilidadesDashboard\obj\Debug\netstandard2.0\UtilidadesDashboard.csprojAssemblyReference.cache
+D:\BIRT\DI\ProyectoDashboardMVC\ProyectoDashboardMVC\UtilidadesDashboard\obj\Debug\netstandard2.0\UtilidadesDashboard.AssemblyInfoInputs.cache
+D:\BIRT\DI\ProyectoDashboardMVC\ProyectoDashboardMVC\UtilidadesDashboard\obj\Debug\netstandard2.0\UtilidadesDashboard.AssemblyInfo.cs
+D:\BIRT\DI\ProyectoDashboardMVC\ProyectoDashboardMVC\UtilidadesDashboard\obj\Debug\netstandard2.0\UtilidadesDashboard.csproj.CoreCompileInputs.cache
+D:\BIRT\DI\ProyectoDashboardMVC\ProyectoDashboardMVC\UtilidadesDashboard\obj\Debug\netstandard2.0\UtilidadesDashboard.dll
+D:\BIRT\DI\ProyectoDashboardMVC\ProyectoDashboardMVC\UtilidadesDashboard\obj\Debug\netstandard2.0\UtilidadesDashboard.pdb

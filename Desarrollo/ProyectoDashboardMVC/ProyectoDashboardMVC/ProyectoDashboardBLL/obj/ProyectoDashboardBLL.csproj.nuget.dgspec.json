@@ -1,0 +1,202 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\BIRT\\DI\\ProyectoDashboardMVC\\ProyectoDashboardMVC\\ProyectoDashboardBLL\\ProyectoDashboardBLL.csproj": {}
+  },
+  "projects": {
+    "D:\\BIRT\\DI\\ProyectoDashboardMVC\\ProyectoDashboardMVC\\ProyectoDashboardBLL\\ProyectoDashboardBLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BIRT\\DI\\ProyectoDashboardMVC\\ProyectoDashboardMVC\\ProyectoDashboardBLL\\ProyectoDashboardBLL.csproj",
+        "projectName": "ProyectoDashboardBLL",
+        "projectPath": "D:\\BIRT\\DI\\ProyectoDashboardMVC\\ProyectoDashboardMVC\\ProyectoDashboardBLL\\ProyectoDashboardBLL.csproj",
+        "packagesPath": "C:\\Users\\PabloDesarrollo\\.nuget\\packages\\",
+        "outputPath": "D:\\BIRT\\DI\\ProyectoDashboardMVC\\ProyectoDashboardMVC\\ProyectoDashboardBLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PabloDesarrollo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\BIRT\\DI\\ProyectoDashboardMVC\\ProyectoDashboardMVC\\ProyectoDashboardDAL\\ProyectoDashboardDAL.csproj": {
+                "projectPath": "D:\\BIRT\\DI\\ProyectoDashboardMVC\\ProyectoDashboardMVC\\ProyectoDashboardDAL\\ProyectoDashboardDAL.csproj"
+              },
+              "D:\\BIRT\\DI\\ProyectoDashboardMVC\\ProyectoDashboardMVC\\UtilidadesDashboard\\UtilidadesDashboard.csproj": {
+                "projectPath": "D:\\BIRT\\DI\\ProyectoDashboardMVC\\ProyectoDashboardMVC\\UtilidadesDashboard\\UtilidadesDashboard.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BIRT\\DI\\ProyectoDashboardMVC\\ProyectoDashboardMVC\\ProyectoDashboardDAL\\ProyectoDashboardDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BIRT\\DI\\ProyectoDashboardMVC\\ProyectoDashboardMVC\\ProyectoDashboardDAL\\ProyectoDashboardDAL.csproj",
+        "projectName": "ProyectoDashboardDAL",
+        "projectPath": "D:\\BIRT\\DI\\ProyectoDashboardMVC\\ProyectoDashboardMVC\\ProyectoDashboardDAL\\ProyectoDashboardDAL.csproj",
+        "packagesPath": "C:\\Users\\PabloDesarrollo\\.nuget\\packages\\",
+        "outputPath": "D:\\BIRT\\DI\\ProyectoDashboardMVC\\ProyectoDashboardMVC\\ProyectoDashboardDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PabloDesarrollo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\BIRT\\DI\\ProyectoDashboardMVC\\ProyectoDashboardMVC\\UtilidadesDashboard\\UtilidadesDashboard.csproj": {
+                "projectPath": "D:\\BIRT\\DI\\ProyectoDashboardMVC\\ProyectoDashboardMVC\\UtilidadesDashboard\\UtilidadesDashboard.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BIRT\\DI\\ProyectoDashboardMVC\\ProyectoDashboardMVC\\UtilidadesDashboard\\UtilidadesDashboard.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BIRT\\DI\\ProyectoDashboardMVC\\ProyectoDashboardMVC\\UtilidadesDashboard\\UtilidadesDashboard.csproj",
+        "projectName": "UtilidadesDashboard",
+        "projectPath": "D:\\BIRT\\DI\\ProyectoDashboardMVC\\ProyectoDashboardMVC\\UtilidadesDashboard\\UtilidadesDashboard.csproj",
+        "packagesPath": "C:\\Users\\PabloDesarrollo\\.nuget\\packages\\",
+        "outputPath": "D:\\BIRT\\DI\\ProyectoDashboardMVC\\ProyectoDashboardMVC\\UtilidadesDashboard\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PabloDesarrollo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
