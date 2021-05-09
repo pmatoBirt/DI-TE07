@@ -35,6 +35,6 @@ Peden escribirme a mi correo electrónico: pmato at birt.eus
 
 Documentación de la Unidad Didáctica 7 de la asignatura Desarrollo de Interfaces, del ciclo Desarrollo de Aplicaciones Multiplataforma de BIRT.
 Plantillas Readme.me: [https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/README.md](https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/README.md)
-
+Manejod e ficheros en CSharp: [https://csharp.com.es/manejo-de-ficheros/](https://csharp.com.es/manejo-de-ficheros/)
 
 
