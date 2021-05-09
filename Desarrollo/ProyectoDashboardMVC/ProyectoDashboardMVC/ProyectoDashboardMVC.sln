@@ -13,11 +13,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{A0D4258F-AFC
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utilidades", "Utilidades", "{0BE843D4-EABA-43FB-B8C3-198139A09077}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilidadesDashboard", "UtilidadesDashboard\UtilidadesDashboard.csproj", "{5951441B-6236-4E06-BB6E-87AB9448A8EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UtilidadesDashboard", "UtilidadesDashboard\UtilidadesDashboard.csproj", "{5951441B-6236-4E06-BB6E-87AB9448A8EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoDashboardDAL", "ProyectoDashboardDAL\ProyectoDashboardDAL.csproj", "{39E54C0A-B0EB-4856-A601-767A852CC86B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProyectoDashboardDAL", "ProyectoDashboardDAL\ProyectoDashboardDAL.csproj", "{39E54C0A-B0EB-4856-A601-767A852CC86B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoDashboardBLL", "ProyectoDashboardBLL\ProyectoDashboardBLL.csproj", "{AC1BD341-9100-4008-9218-87ADED9AD034}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProyectoDashboardBLL", "ProyectoDashboardBLL\ProyectoDashboardBLL.csproj", "{AC1BD341-9100-4008-9218-87ADED9AD034}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador", "Setup\Instalador\Instalador.vdproj", "{AF6A1D73-B379-47FF-90AD-21C1481BC04A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,8 @@ Global
 		{AC1BD341-9100-4008-9218-87ADED9AD034}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC1BD341-9100-4008-9218-87ADED9AD034}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC1BD341-9100-4008-9218-87ADED9AD034}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF6A1D73-B379-47FF-90AD-21C1481BC04A}.Debug|Any CPU.ActiveCfg = Debug
+		{AF6A1D73-B379-47FF-90AD-21C1481BC04A}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

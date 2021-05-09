@@ -1,0 +1,12 @@
+D:\BIRT\GIT\DI07\DI-TE07\Desarrollo\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardDAL\bin\Release\netstandard2.0\ProyectoDashboardDAL.deps.json
+D:\BIRT\GIT\DI07\DI-TE07\Desarrollo\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardDAL\bin\Release\netstandard2.0\ProyectoDashboardDAL.dll
+D:\BIRT\GIT\DI07\DI-TE07\Desarrollo\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardDAL\bin\Release\netstandard2.0\ProyectoDashboardDAL.pdb
+D:\BIRT\GIT\DI07\DI-TE07\Desarrollo\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardDAL\bin\Release\netstandard2.0\UtilidadesDashboard.dll
+D:\BIRT\GIT\DI07\DI-TE07\Desarrollo\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardDAL\bin\Release\netstandard2.0\UtilidadesDashboard.pdb
+D:\BIRT\GIT\DI07\DI-TE07\Desarrollo\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardDAL\obj\Release\netstandard2.0\ProyectoDashboardDAL.csprojAssemblyReference.cache
+D:\BIRT\GIT\DI07\DI-TE07\Desarrollo\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardDAL\obj\Release\netstandard2.0\ProyectoDashboardDAL.AssemblyInfoInputs.cache
+D:\BIRT\GIT\DI07\DI-TE07\Desarrollo\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardDAL\obj\Release\netstandard2.0\ProyectoDashboardDAL.AssemblyInfo.cs
+D:\BIRT\GIT\DI07\DI-TE07\Desarrollo\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardDAL\obj\Release\netstandard2.0\ProyectoDashboardDAL.csproj.CoreCompileInputs.cache
+D:\BIRT\GIT\DI07\DI-TE07\Desarrollo\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardDAL\obj\Release\netstandard2.0\ProyectoDashboardDAL.csproj.CopyComplete
+D:\BIRT\GIT\DI07\DI-TE07\Desarrollo\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardDAL\obj\Release\netstandard2.0\ProyectoDashboardDAL.dll
+D:\BIRT\GIT\DI07\DI-TE07\Desarrollo\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardDAL\obj\Release\netstandard2.0\ProyectoDashboardDAL.pdb

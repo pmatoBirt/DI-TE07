@@ -1,0 +1,14 @@
+D:\BIRT\GIT\DI07\DI-TE07\Desarrollo\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardBLL\bin\Release\netstandard2.0\ProyectoDashboardBLL.deps.json
+D:\BIRT\GIT\DI07\DI-TE07\Desarrollo\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardBLL\bin\Release\netstandard2.0\ProyectoDashboardBLL.dll
+D:\BIRT\GIT\DI07\DI-TE07\Desarrollo\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardBLL\bin\Release\netstandard2.0\ProyectoDashboardBLL.pdb
+D:\BIRT\GIT\DI07\DI-TE07\Desarrollo\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardBLL\bin\Release\netstandard2.0\ProyectoDashboardDAL.dll
+D:\BIRT\GIT\DI07\DI-TE07\Desarrollo\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardBLL\bin\Release\netstandard2.0\UtilidadesDashboard.dll
+D:\BIRT\GIT\DI07\DI-TE07\Desarrollo\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardBLL\bin\Release\netstandard2.0\ProyectoDashboardDAL.pdb
+D:\BIRT\GIT\DI07\DI-TE07\Desarrollo\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardBLL\bin\Release\netstandard2.0\UtilidadesDashboard.pdb
+D:\BIRT\GIT\DI07\DI-TE07\Desarrollo\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardBLL\obj\Release\netstandard2.0\ProyectoDashboardBLL.csprojAssemblyReference.cache
+D:\BIRT\GIT\DI07\DI-TE07\Desarrollo\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardBLL\obj\Release\netstandard2.0\ProyectoDashboardBLL.AssemblyInfoInputs.cache
+D:\BIRT\GIT\DI07\DI-TE07\Desarrollo\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardBLL\obj\Release\netstandard2.0\ProyectoDashboardBLL.AssemblyInfo.cs
+D:\BIRT\GIT\DI07\DI-TE07\Desarrollo\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardBLL\obj\Release\netstandard2.0\ProyectoDashboardBLL.csproj.CoreCompileInputs.cache
+D:\BIRT\GIT\DI07\DI-TE07\Desarrollo\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardBLL\obj\Release\netstandard2.0\ProyectoDashboardBLL.csproj.CopyComplete
+D:\BIRT\GIT\DI07\DI-TE07\Desarrollo\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardBLL\obj\Release\netstandard2.0\ProyectoDashboardBLL.dll
+D:\BIRT\GIT\DI07\DI-TE07\Desarrollo\ProyectoDashboardMVC\ProyectoDashboardMVC\ProyectoDashboardBLL\obj\Release\netstandard2.0\ProyectoDashboardBLL.pdb

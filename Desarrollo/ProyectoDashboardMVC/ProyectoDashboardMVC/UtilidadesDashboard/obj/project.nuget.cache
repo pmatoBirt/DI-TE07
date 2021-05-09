@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "isfWk1mcx7xDzm2wnE/GODUCxGbyhVSBahtgADLuRfuCa5mC++tQfAVqnhVXVJCS0QS3y2PnQvls1v/l2GzQUQ==",
+  "dgSpecHash": "xx96fvlOgZ+5/FB16jsP6G36HLhMKnkD4F4jWItqhCoqC1hnMXojWuIYzjNNXeXGU6GmVNh4jSWYepv+tMQUtQ==",
   "success": true,
-  "projectFilePath": "D:\\BIRT\\DI\\ProyectoDashboardMVC\\ProyectoDashboardMVC\\UtilidadesDashboard\\UtilidadesDashboard.csproj",
+  "projectFilePath": "D:\\BIRT\\GIT\\DI07\\DI-TE07\\Desarrollo\\ProyectoDashboardMVC\\ProyectoDashboardMVC\\UtilidadesDashboard\\UtilidadesDashboard.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PabloDesarrollo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\PabloDesarrollo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

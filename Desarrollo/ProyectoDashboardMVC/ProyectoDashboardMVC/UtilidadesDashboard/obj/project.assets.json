@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BIRT\\DI\\ProyectoDashboardMVC\\ProyectoDashboardMVC\\UtilidadesDashboard\\UtilidadesDashboard.csproj",
+      "projectUniqueName": "D:\\BIRT\\GIT\\DI07\\DI-TE07\\Desarrollo\\ProyectoDashboardMVC\\ProyectoDashboardMVC\\UtilidadesDashboard\\UtilidadesDashboard.csproj",
       "projectName": "UtilidadesDashboard",
-      "projectPath": "D:\\BIRT\\DI\\ProyectoDashboardMVC\\ProyectoDashboardMVC\\UtilidadesDashboard\\UtilidadesDashboard.csproj",
+      "projectPath": "D:\\BIRT\\GIT\\DI07\\DI-TE07\\Desarrollo\\ProyectoDashboardMVC\\ProyectoDashboardMVC\\UtilidadesDashboard\\UtilidadesDashboard.csproj",
       "packagesPath": "C:\\Users\\PabloDesarrollo\\.nuget\\packages\\",
-      "outputPath": "D:\\BIRT\\DI\\ProyectoDashboardMVC\\ProyectoDashboardMVC\\UtilidadesDashboard\\obj\\",
+      "outputPath": "D:\\BIRT\\GIT\\DI07\\DI-TE07\\Desarrollo\\ProyectoDashboardMVC\\ProyectoDashboardMVC\\UtilidadesDashboard\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
